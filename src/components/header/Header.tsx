@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "../../images/logo.png";
+import logo from "../../images/logo1.png";
 import cartIcon from "../../images/cartIcon.png";
 import { BiCaretDown } from "react-icons/bi";
 import { HiOutlineSearch } from "react-icons/hi";
